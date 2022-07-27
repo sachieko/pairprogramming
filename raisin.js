@@ -21,7 +21,7 @@ const raisinAlarmArray = function(cookies) {
 console.log(raisinAlarm(["🍫", "🍫", "🍇", "🍫"]));
 console.log(raisinAlarm(["🍫", "🍇", "🍫", "🍫", "🍇"]));
 console.log(raisinAlarm(["🍫", "🍫", "🍫"]));
-
+// Test for Stretch
 console.log(
   raisinAlarmArray([
     ["🍫", "🍫", "🍇", "🍫"],
