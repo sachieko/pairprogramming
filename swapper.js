@@ -1,12 +1,9 @@
 // Poor Socrates
 const swapper = function(key1, object1, key2, object2) {
   console.log("Swap!");
-
   // Store the original key values in 2 variables
   let key1Value = object1[key1];
   let key2Value = object2[key2];
-
-
   // Swap the values in
   object2[key2] = key1Value;
   object1[key1] = key2Value;
