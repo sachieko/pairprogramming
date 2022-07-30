@@ -1,4 +1,5 @@
 // Poor Socrates
+// Paircoded with @Sachieko and @sylvielcq
 const swapper = function(key1, object1, key2, object2) {
   console.log("Swap!");
   // Store the original key values in 2 variables
