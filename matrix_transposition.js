@@ -1,5 +1,5 @@
 // Pair coded by @Sachieko and Bayan Safaee
-const transpose = function (matrix) {
+const transpose = function(matrix) {
   let result = [];
   for (let i = 0; i < matrix[0].length; i++) {
     let row = [];
